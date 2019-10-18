@@ -2,11 +2,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class HuiwenStr {
+public class Main_1032 {
 
-	
-	
-	
 	public int Solve(String str) {
 		int max = 1;
 		for (int i = 0; i < str.length(); i++) {
@@ -222,7 +219,7 @@ public class HuiwenStr {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		HuiwenStr obj = new HuiwenStr();
+		Main_1032 obj = new Main_1032();
 		Scanner sc = new Scanner(System.in);
 		int N = Integer.parseInt(sc.nextLine());
 		List<String> list = new ArrayList<String>();

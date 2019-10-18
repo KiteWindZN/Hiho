@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class myAdd {
+public class Main_1000 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Xiaochu {
+public class Main_1039 {
 
 	public int cal(String str) {
 		int res = 0;
@@ -102,7 +102,7 @@ public class Xiaochu {
 		// TODO Auto-generated method stub
 
 		Scanner sc = new Scanner(System.in);
-		Xiaochu obj = new Xiaochu();
+		Main_1039 obj = new Main_1039();
 		int num = Integer.parseInt(sc.nextLine());
 		List<String> list = new ArrayList<String>();
 		for (int i = 0; i < num; i++) {
